@@ -6,3 +6,4 @@ Olá! Sejam bem vindo ao meu livro de receitas
 - Arroz de panela
 - Costela na panela de pressão
 - cachorro-quente
+- sopa
