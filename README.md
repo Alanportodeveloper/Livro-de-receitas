@@ -9,4 +9,4 @@ Olá! Sejam bem vindo ao meu livro de receitas
 - sopa
 - cachorro-quente
 - Feijoada
-- Churrasco
+- churrasco
